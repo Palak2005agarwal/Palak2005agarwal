@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats & Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Palak2005agarwal&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="45%"/>
-  <img src="https://streak-stats.demolab.com?user=Palak2005agarwal&theme=dark&hide_border=true" alt="GitHub Streak" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Palak2005agarwal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="45%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Palak2005agarwal&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="45%"/>
