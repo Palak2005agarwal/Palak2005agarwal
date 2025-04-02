@@ -1,5 +1,5 @@
 ### Hi there, I'm *<span style="color:#FFD700; font-weight:bold; font-size:36px;">Palak Agarwal</span>*! 👋
-#### <span style="font-size:24px;">Aspiring Software Developer | Passionate About Technology & Innovation 🚀</span>
+#### <span style="font-size:24px;">Aspiring AI & Data Science engineer | First-year BTech student | Exploring coding, AI, and web dev | Learning C, Python & DSA 🚀💡 </span>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Palak2005agarwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,35 +18,34 @@
 ### 📊 GitHub Stats & Analytics:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Palak2005agarwal&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak2005agarwal&theme=dark" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Palak2005agarwal&theme=dark&hide_border=true" alt="GitHub Streak" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Palak2005agarwal&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="45%"/>
-  <img src="https://leetcard.jacoblin.cool/Palak2005agarwal?theme=dark&ext=contest" alt="LeetCode Stats" width="45%"/>
+  <img src="https://leetcard.jacoblin.cool/palakkk_20?theme=dark&ext=contest" alt="LeetCode Stats" width="45%"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently *learning and improving* my skills in *Web Development and AI*.
-- 💡 Interested in *Front-End & Back-End Development*.
-- 🔥 Beginner in *C++, Python, and JavaScript, with growing expertise in **MERN Stack*.
-- 🚀 Exploring *Open-Source and Competitive Programming*.
-- 🎯 Aiming to build *real-world impactful applications*.
-- ⚡ Fun Fact: *Learning to code is like learning magic! 🧙‍♂✨*
+🌱 Currently learning and improving my skills in C, Python, and DSA.
+💡 Interested in AI, Machine Learning, and Software Development.
+🔥 Beginner in C, Python, and JavaScript, exploring Web Development & DSA.
+🚀 Exploring Open-Source and Problem-Solving.
+🎯 Aiming to build efficient and scalable tech solutions.
+⚡ Fun Fact: Coding is like solving a puzzle—challenging but exciting! 🧩✨
 
-📌 *Portfolio:* [My Portfolio](https://Palak2005agarwal.github.io/My-Portfolio/)  
-📩 *Reach Me At:* palakagarwal.code@gmail.com
+  📩 *Reach Me At:* inagarwalpalak2005@gmail.com 
 
 ---
 
 ### 📬 Connect With Me:
 <p align="left">
-  <a href="https://linkedin.com/in/palak-agarwal" target="blank">
+  <a href="https://linkedin.com/in/palak-agarwal20" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60"/>
   </a>
-  <a href="https://instagram.com/palak.code" target="blank">
+  <a href="https://instagram.com/palakkk_20" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60"/>
   </a>
-  <a href="https://www.leetcode.com/Palak2005agarwal" target="blank">
+  <a href="https://www.leetcode.com/palakkk_20" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="60"/>
   </a>
 </p>
