@@ -17,8 +17,7 @@
 ## 📊 GitHub Stats & Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Palak2005agarwal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak2005agarwal&theme=dark&hide_border=true" alt="GitHub Streak" width="47%"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak2005agarwal&theme=dark" alt="GitHub Streak" width="45%"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Palak2005agarwal&show_icons=true&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="47%"/>
   <img src="https://leetcard.jacoblin.cool/palakkk_20?theme=dark&ext=contest" alt="LeetCode Stats" width="47%"/>
