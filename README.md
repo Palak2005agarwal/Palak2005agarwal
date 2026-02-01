@@ -1,73 +1,99 @@
-### Hi there, I'm **Palak Agarwal**! 👋  
-#### *Aspiring AI & Data Science Engineer | First-Year BTech Student | Exploring Coding, AI, and Web Development | Learning C, Python & DSA 🚀💡*  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Palak%20Agarwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20-%20Web%20Developer&descAlignY=55" width="100%" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Palak2005agarwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Palak2005agarwal&label=Profile%20Views&color=00f2ea&style=flat" alt="Profile Views" />
 
----
+  <br/>
 
-## 🏆 Badges & Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Palak2005agarwal&theme=radical&margin-w=15&column=6" alt="GitHub Trophy" width="90%"/>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+AI+and+Data+Science;Crafting+User-Centric+Solutions;Debugging+until+it+works!+🕵️‍♂️" alt="Typing SVG" />
+  </a>
 
----
+  <br/><br/>
 
-## 📊 GitHub Stats & Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Palak2005agarwal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palak2005agarwal&theme=dark" alt="GitHub Streak" width="45%"/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Palak2005agarwal&show_icons=true&theme=dark&layout=compact&hide_border=true" alt="Top Languages" width="47%"/>
-  <img src="https://leetcard.jacoblin.cool/palakkk_20?theme=dark&ext=contest" alt="LeetCode Stats" width="47%"/>
-</p>
-
----
-
-## 👩‍💻 About Me  
-🌱 Currently **learning and improving** my skills in **C, Python, and DSA**.  
-💡 Interested in **AI, Machine Learning, and Software Development**.  
-🔥 Exploring **Web Development & Open-Source**.  
-🚀 Passionate about **problem-solving and building scalable solutions**.  
-🎯 Aiming to **work on real-world projects and contribute to Open Source**.  
-⚡ **Fun Fact:** *Coding is like solving a puzzle—challenging but exciting! 🧙‍♂️✨*  
-
-📩 **Reach Me At:** [inagarwalpalak2005@gmail.com](mailto:inagarwalpalak2005@gmail.com)  
+  <p align="center">
+    <a href="https://linkedin.com/in/palak-agarwal20">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&height=35" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:inagarwalpalak2005@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=35" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Palak2005agarwal">
+      <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white&height=35" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 💌 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/palak-agarwal20" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60"/>
-  </a>
-  <a href="https://instagram.com/palakkk_20" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="60"/>
-  </a>
-  <a href="https://www.leetcode.com/palakkk_20" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="60"/>
-  </a>
-</p>
+### 👨‍💻 **About Me**
+
+<div align="center">
+  <p>
+    <em>"Coding is like solving a puzzle—challenging but exciting!"</em>
+  </p>
+  <p>
+    I am a <strong>sophomore at Arya College of Engineering and IT</strong>, passionate about <strong>Artificial Intelligence</strong>, <strong>Data Science</strong>, and <strong>Full-Stack Development</strong>. My goal is to work on real-world projects and contribute to Open Source while bridging the gap between data and design.
+  </p>
+</div>
+
+<div align="center">
+  🔭 <strong>Current Focus:</strong> Building AI-driven platforms like Sampark Setu.<br/>
+  🌱 <strong>Learning:</strong> C, Python, Data Structures & Algorithms (DSA).<br/>
+  ⚡ <strong>Philosophy:</strong> <em>"Aiming to build scalable solutions."</em>
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
-</p>
+### ⚡ **Tech Stack & Arsenal**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+</div>
 
 ---
 
-## 🚀 Let's Build Something Awesome Together!  
+### 🧩 **Coding Profile**
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/palakkk_20?theme=tokyonight&font=Orbitron&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
+### 📊 **GitHub Analytics Dashboard**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palak2005agarwal&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Palak2005agarwal&theme=tokyonight&utcOffset=5.5" width="45%" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Palak2005agarwal&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Palak2005agarwal&theme=tokyonight" width="45%" />
+</div>
+
+---
+
+### 📂 **Featured Projects**
+
+<div align="center">
+
+| **🤖 Sampark Setu** | **🤝 SkillBridge** |
+| :--- | :--- |
+| **Stack:** `React` `Node.js` `Gemini API` | **Stack:** `MongoDB` `Express` `React` `Node` |
+| A comprehensive grievance redressal system utilizing **Google's Gemini API** for intelligent issue categorization. It features a dynamic dashboard to reduce manual effort in sorting civic complaints. | A peer-to-peer platform enabling structured skill exchange among students. Integrated real-time scheduling and a reputation-based rating system for efficient knowledge sharing. |
+
+</div>
+
+---
+
+<div align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=100&section=footer" width="100%" />
+</div>
