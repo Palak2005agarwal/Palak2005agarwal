@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=280&section=header&text=Palak%20Agarwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20-%20Web%20Developer&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=926cf0&height=280&section=header&text=Palak%20Agarwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20-%20Web%20Developer&descAlignY=55" width="100%" />
 
   <img src="https://komarev.com/ghpvc/?username=Palak2005agarwal&label=Profile%20Views&color=00f2ea&style=flat" alt="Profile Views" />
 
